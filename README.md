@@ -3,7 +3,7 @@
 [![qst-exe's github stats](https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&count_private=true&theme=flag-india)](https://github.com/qst-exe "qst-exe's github stats")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qst-exe&count_private=true&theme=flag-india)](https://github.com/qst-exe "Top Langs")
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qst-exe&repo=spearly_flutter&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qst-exe&repo=spearly_flutter&show_owner=true)](https://github.com/qst-exe/spearly_flutter)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qst-exe&count_private=true&theme=flag-india)](https://github.com/qst-exe "trophy")
 
