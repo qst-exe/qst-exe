@@ -1,4 +1,6 @@
-<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/36927/4c966c32-dc69-0eeb-6542-394d8bfbfa43.jpeg" width="720" alt="Hedehog">
+<a href="https://kusutan.com/" target="_blank">
+    <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/36927/4c966c32-dc69-0eeb-6542-394d8bfbfa43.jpeg" width="720" alt="Hedehog">
+</a>
 
 [![qst-exe's github stats](https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&count_private=true&theme=flag-india)](https://github.com/qst-exe "qst-exe's github stats")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qst-exe&count_private=true&theme=flag-india)](https://github.com/qst-exe "Top Langs")
