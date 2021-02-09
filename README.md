@@ -1,7 +1,3 @@
-<a href="https://thedgehog.jp/" target="_blank">
-    <img src="https://thedgehog.jp/assets/images/background.jpg" width="720" alt="Hedehog">
-</a>
-
 [![qst-exe's github stats](https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&count_private=true&theme=flag-india)](https://github.com/qst-exe "qst-exe's github stats")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qst-exe&count_private=true&theme=flag-india)](https://github.com/qst-exe "Top Langs")
 
