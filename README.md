@@ -3,6 +3,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qst-exe&repo=spearly_flutter&show_owner=true)](https://github.com/qst-exe/spearly_flutter)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qst-exe&repo=flutter-firebase-cd&show_owner=true)](https://github.com/qst-exe/flutter-firebase-cd)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=qst-exe&count_private=true&theme=flag-india)](https://github.com/qst-exe "trophy")
 
 [![GitHub](https://img.shields.io/github/followers/qst-exe?style=social)](https://github.com/qst-exe "GitHub")
