@@ -2,23 +2,19 @@
 
 <h1>Hi 👋, I'm qst-exe</h1>
 
-[![qst-exe's github stats](https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&count_private=true&theme=flag-india)](https://github.com/qst-exe "qst-exe's github stats")
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=qst-exe&count_private=true&theme=flag-india&layout=compact)
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qst-exe&repo=spearly_flutter&show_owner=true)](https://github.com/qst-exe/spearly_flutter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qst-exe&repo=flutter-firebase-cd&show_owner=true)](https://github.com/qst-exe/flutter-firebase-cd)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qst-exe&label=Profile%20views&color=0e75b6&style=flat" alt="qst-exe" /> </p>
-<p align="right"> <a href="https://twitter.com/qst_exe" target="blank"><img src="https://img.shields.io/twitter/follow/qst_exe?logo=twitter&style=for-the-badge" alt="qst_exe" /></a> </p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact" alt="qst-exe" /></p>
 
 - 📝 I regularly write articles on [https://blog.hhg-exe.jp/](https://blog.hhg-exe.jp/)
-
 - 💬 Ask me about **Firebase, Flutter, Spearly**
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qst-exe&label=Profile%20views&color=0e75b6&style=flat" alt="qst-exe" /> </p>
+<p align="left"> <a href="https://twitter.com/qst_exe" target="blank"><img src="https://img.shields.io/twitter/follow/qst_exe?logo=twitter&style=for-the-badge" alt="qst_exe" /></a> </p>
+
 ### Blogs posts
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&locale=en" alt="qst-exe" /></p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
