@@ -12,12 +12,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qst-exe&label=Profile%20views&color=0e75b6&style=flat" alt="qst-exe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/qst_exe" target="blank"><img src="https://img.shields.io/twitter/follow/qst_exe?logo=twitter&style=for-the-badge" alt="qst_exe" /></a> </p>
-
 - 📝 I regularly write articles on [https://blog.hhg-exe.jp/](https://blog.hhg-exe.jp/)
 
 - 💬 Ask me about **Firebase, Flutter, Spearly**
 
+### Blogs posts
+<p align="right" width="49%"> <a href="https://twitter.com/qst_exe" target="blank"><img src="https://img.shields.io/twitter/follow/qst_exe?logo=twitter&style=for-the-badge" alt="qst_exe" /></a> </p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
