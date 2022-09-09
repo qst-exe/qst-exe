@@ -1,5 +1,9 @@
 <h1>Hi 👋, I'm qst-exe</h1>
 
+<p align="center">
+  <img src="https://github.com/qst-exe/qst-exe/blob/main/hedgehog.gif?raw=true" alt="harine"/>
+</p>
+
 <h3 align="center">A hedgehog-like Mobile Application Ninja from Kagoshima.</h3>
 
 <p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&locale=en" alt="qst-exe" /></p>
