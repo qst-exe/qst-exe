@@ -27,13 +27,13 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
-- [Spearly Formの受信通知をSlackに飛ばす](https://zenn.dev/qst/articles/63d32a5516ffcf)
 - [『メタバース進化論』のメタ解釈](https://blog.hhg-exe.jp/evolution-of-metaverse)
 - [ヘッジホッグ.exe合同会社を設立しました](https://blog.hhg-exe.jp/start-llc)
-- [Flutter WebにフォームをSpearlyを使って埋め込んでみる](https://zenn.dev/qst/articles/741f7befcb2d6e44b68d)
-- [Flutter WebにヘッドレスCMSのSpearlyを埋め込んでコンテンツ管理する](https://zenn.dev/qst/articles/e97b005c536cccc69006)
-- [Flutter Webで静的サイトを作ったときのTips](https://zenn.dev/qst/articles/c11c37a3531ce5476de7)
+- [スマホアプリ開発でよく聞く「Webアプリ」「ネイティブアプリ」の違いと選び方](https://blog.hhg-exe.jp/which-choice-app-web-or-native)
+- [鹿児島でフリーランスエンジニア3年目を迎えて](https://blog.hhg-exe.jp/looking-back-on-2-years)
+- [鹿児島ハッカソンやりました](https://blog.hhg-exe.jp/feedback-kagohack-2021-02)
+- [2020年の振り返り](https://blog.hhg-exe.jp/looking-back-on-2020)
+- [コロナ禍の地方のエンジニアコミュニティのあり方](https://blog.hhg-exe.jp/covid-19-pandemic-rural-engineer-community)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
