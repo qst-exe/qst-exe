@@ -4,11 +4,11 @@
   <img src="https://github.com/qst-exe/qst-exe/blob/main/hedgehog.gif?raw=true" alt="harine"/>
 </p>
 
-<h3 align="center">A hedgehog-like Mobile Application Ninja from Kagoshima.</h3>
+<h3 align="center">A hedgehog-like Mobile Application Rockstar from Kagoshima.</h3>
 
-<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&locale=en" alt="qst-exe" /></p>
+<p><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&locale=en" alt="qst-exe" /></p>
 
-- 🏢 I’m currently working on [Hedgehog.exe LLC](https://hhg-exe.jp/)
+- 🏢 I’m currently working on [Hedgehog.exe LLC](https://hhg-exe.jp/), [unimal Co.,Ltd.](https://unimal.jp/)
 
 - 🌱 I’m currently learning **Flutter Flame**
 
