@@ -24,7 +24,7 @@
 
 ## Blogs posts
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact" alt="qst-exe" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact&count_private=true" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
 - [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
