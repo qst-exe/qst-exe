@@ -27,13 +27,13 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact&count_private=true" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [AIノ力で褒めて伸びていこう！というアプリ](https://zenn.dev/qst/articles/8e227aca217e0b)
 - [Flutter Webでブログを作ってSEOスコア100点を取れた話](https://zenn.dev/qst/articles/45be4c0e82ca34)
 - [AI生成の「鹿児島でフリーランスエンジニアをしているくすたんについて」の文章を添削してみた](https://column.hhg-exe.jp/column/c-9HerzRmjugGSwoIp5YcQ)
 - [Flutter Web製のコラムを立ち上げた](https://blog.hhg-exe.jp/flutter-web-column)
 - [Flutter Web製のコラムを立ち上げた](https://column.hhg-exe.jp/column/c-s6tLx9YOhgJFPcMGwdiA)
 - [つれづれなるまゝに、日暮らし、硯にむかひて、心にうつりゆくよしなし事を、そこはかとなく書きつくれば、](https://column.hhg-exe.jp/column/c-YFCgZR4H8kBNn7S1bGM2)
 - [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
-- [Spearly Formの受信通知をSlackに飛ばす](https://zenn.dev/qst/articles/63d32a5516ffcf)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
