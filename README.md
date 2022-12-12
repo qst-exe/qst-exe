@@ -27,7 +27,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact&count_private=true" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [AIノ力で褒めて伸びていこう！というアプリ](https://zenn.dev/qst/articles/8e227aca217e0b)
+- [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
 - [Flutter Webでブログを作ってSEOスコア100点を取れた話](https://zenn.dev/qst/articles/45be4c0e82ca34)
 - [AI生成の「鹿児島でフリーランスエンジニアをしているくすたんについて」の文章を添削してみた](https://column.hhg-exe.jp/column/c-9HerzRmjugGSwoIp5YcQ)
 - [Flutter Web製のコラムを立ち上げた](https://blog.hhg-exe.jp/flutter-web-column)
