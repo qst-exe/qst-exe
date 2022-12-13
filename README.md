@@ -29,10 +29,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
 - [Flutter Webでブログを作ってSEOスコア100点を取れた話](https://zenn.dev/qst/articles/45be4c0e82ca34)
-- [AI生成の「鹿児島でフリーランスエンジニアをしているくすたんについて」の文章を添削してみた](https://column.hhg-exe.jp/column/c-9HerzRmjugGSwoIp5YcQ)
+- [AI生成の「鹿児島でフリーランスエンジニアをしているくすたんについて」の文章を添削してみた](https://column-flutter.hhg-exe.jp/column/c-9HerzRmjugGSwoIp5YcQ)
 - [Flutter Web製のコラムを立ち上げた](https://blog.hhg-exe.jp/flutter-web-column)
-- [Flutter Web製のコラムを立ち上げた](https://column.hhg-exe.jp/column/c-s6tLx9YOhgJFPcMGwdiA)
-- [つれづれなるまゝに、日暮らし、硯にむかひて、心にうつりゆくよしなし事を、そこはかとなく書きつくれば、](https://column.hhg-exe.jp/column/c-YFCgZR4H8kBNn7S1bGM2)
+- [Flutter Web製のコラムを立ち上げた](https://column-flutter.hhg-exe.jp/column/c-s6tLx9YOhgJFPcMGwdiA)
+- [つれづれなるまゝに、日暮らし、硯にむかひて、心にうつりゆくよしなし事を、そこはかとなく書きつくれば、](https://column-flutter.hhg-exe.jp/column/c-YFCgZR4H8kBNn7S1bGM2)
 - [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
 <!-- BLOG-POST-LIST:END -->
 
