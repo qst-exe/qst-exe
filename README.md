@@ -28,7 +28,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
-- [Flutter Webでブログを作ってSEOスコア100点を取れた話](https://zenn.dev/qst/articles/45be4c0e82ca34)
+- [Flutter Webでブログを作ってSEOスコア100点を取ってみた](https://zenn.dev/qst/articles/45be4c0e82ca34)
 - [Flutter Web製のコラムを立ち上げた](https://blog.hhg-exe.jp/flutter-web-column)
 - [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
 - [Spearly Formの受信通知をSlackに飛ばす](https://zenn.dev/qst/articles/63d32a5516ffcf)
