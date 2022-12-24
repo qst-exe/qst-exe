@@ -28,12 +28,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
+- [鹿児島からメタバースについて色々やってるという話](https://blog.kusutan.com/articles/c-sxYqvUMRGk7VzwoJ1uy4)
 - [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
 - [Flutter Webでブログを作ってSEOスコア100点を取ってみた](https://zenn.dev/qst/articles/45be4c0e82ca34)
+- [AI生成の「鹿児島でフリーランスエンジニアをしているくすたんについて」の文章を添削してみた](https://blog.kusutan.com/articles/c-9HerzRmjugGSwoIp5YcQ)
 - [Flutter Web製のコラムを立ち上げた](https://blog.hhg-exe.jp/flutter-web-column)
-- [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
-- [Spearly Formの受信通知をSlackに飛ばす](https://zenn.dev/qst/articles/63d32a5516ffcf)
-- [『メタバース進化論』のメタ解釈](https://blog.hhg-exe.jp/evolution-of-metaverse)
+- [Flutter Web製のコラムを立ち上げた](https://blog.kusutan.com/articles/c-s6tLx9YOhgJFPcMGwdiA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
