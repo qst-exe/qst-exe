@@ -27,13 +27,13 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact&count_private=true" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
 - [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
 - [Flutter Webでブログを作ってSEOスコア100点を取ってみた](https://zenn.dev/qst/articles/45be4c0e82ca34)
 - [Flutter Web製のコラムを立ち上げた](https://blog.hhg-exe.jp/flutter-web-column)
 - [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
 - [Spearly Formの受信通知をSlackに飛ばす](https://zenn.dev/qst/articles/63d32a5516ffcf)
 - [『メタバース進化論』のメタ解釈](https://blog.hhg-exe.jp/evolution-of-metaverse)
-- [ヘッジホッグ.exe合同会社を設立しました](https://blog.hhg-exe.jp/start-llc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
