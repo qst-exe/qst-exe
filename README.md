@@ -33,7 +33,7 @@
 - [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
 - [Flutter Webでブログを作ってSEOスコア100点を取ってみた](https://zenn.dev/qst/articles/45be4c0e82ca34)
 - [AI生成の「鹿児島でフリーランスエンジニアをしているくすたんについて」の文章を添削してみた](https://blog.kusutan.com/articles/c-9HerzRmjugGSwoIp5YcQ)
-- [Flutter Web製のコラムを立ち上げた](https://blog.hhg-exe.jp/flutter-web-column)
+- [Flutter Web製のコラムを立ち上げた](https://blog.kusutan.com/articles/c-s6tLx9YOhgJFPcMGwdiA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
