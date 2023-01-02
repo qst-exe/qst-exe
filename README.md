@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **info@hhg-exe.jp**
 
-- 📄 Know about my experiences [https://github.com/qst-exe/Curriculum-Vitae](https://github.com/qst-exe/Curriculum-Vitae)
+- 📄 Know about my experiences [https://qst-exe.github.io/resume/](https://qst-exe.github.io/resume/)
 
 - ⚡ Fun fact **Slowpoke(Pokemon)**
 
