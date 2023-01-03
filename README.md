@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter Flame**
 
-- 📝 I regularly write articles on [https://blog.kusutan.com/](https://blog.kusutan.com/)
+- 📝 I regularly write articles on [https://blog.kusutan.com](https://blog.kusutan.com)
 
 - 💬 Ask me about **Firebase, Flutter, Spearly**
 
