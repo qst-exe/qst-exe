@@ -41,7 +41,7 @@
 <p align="left">
 <a href="https://twitter.com/qst-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qst-exe" height="30" width="40" /></a>
 <a href="https://discord.gg/針山ハリネ#4358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="針山ハリネ#4358" height="30" width="40" /></a>
-<a href="/https://blog.hhg-exe.jp/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.hhg-exe.jp/feed.xml" height="30" width="40" /></a>
+<a href="https://blog.kusutan.com/rss/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.kusutan.com/rss/feed.xml" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
