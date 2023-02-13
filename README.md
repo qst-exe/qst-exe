@@ -27,13 +27,13 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact&count_private=true" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [メタバース内でのコミュニティ『BridgeSpace』をリリースしました](https://blog.kusutan.com/articles/c-VF08wpl1qoJk3tSiD2LK)
 - [ブログをJekyll製からNext.jsとヘッドレスCMSのSpearly製に移行した3つの理由](https://blog.kusutan.com/articles/c-C1bEfmnHDx7MSJ2UI5ho)
 - [2023年は赤魔道士エンジニアを目指して、](https://blog.kusutan.com/articles/c-VW9Q1Azm6T23Eb5HaUtX)
 - [フリーランスと一人会社と会社員という生き方の2022年](https://blog.kusutan.com/articles/c-cx3JqEGMAzZv9KVn0pNT)
 - [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
 - [鹿児島からメタバースについて色々やってるという話](https://blog.kusutan.com/articles/c-sxYqvUMRGk7VzwoJ1uy4)
 - [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
-- [Flutter Webでブログを作ってSEOスコア100点を取ってみた](https://zenn.dev/qst/articles/45be4c0e82ca34)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
