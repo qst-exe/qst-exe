@@ -28,12 +28,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [地方在住者のためのメタバース活用術](https://blog.kusutan.com/articles/c-kfwarVlot0gQjMqR7HZh)
+- [M1&lpar;Apple Silicon&rpar;での phpenv で php がうまく動かないエラー対応](https://zenn.dev/qst/articles/ce3011cd6a9a7c)
 - [メタバースコミュニティの『BridgeSpace』を作ったわけ](https://blog.kusutan.com/articles/c-VF08wpl1qoJk3tSiD2LK)
 - [ブログをJekyll製からNext.jsとヘッドレスCMSのSpearly製に移行した3つの理由](https://blog.kusutan.com/articles/c-C1bEfmnHDx7MSJ2UI5ho)
 - [2023年は赤魔道士エンジニアを目指して、](https://blog.kusutan.com/articles/c-VW9Q1Azm6T23Eb5HaUtX)
 - [フリーランスと一人会社と会社員という生き方の2022年](https://blog.kusutan.com/articles/c-cx3JqEGMAzZv9KVn0pNT)
-- [鹿児島からメタバースについて色々やってるという話](https://blog.kusutan.com/articles/c-sxYqvUMRGk7VzwoJ1uy4)
-- [AI生成の「鹿児島でフリーランスエンジニアをしているくすたんについて」の文章を添削してみた](https://blog.kusutan.com/articles/c-9HerzRmjugGSwoIp5YcQ)
+- [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
