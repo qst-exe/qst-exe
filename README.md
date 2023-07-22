@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Flutter Flame**
 
-- 📝 I regularly write articles on [https://blog.kusutan.com](https://blog.kusutan.com)
+- 📝 I regularly write articles on [https://blog.qst-exe.com](https://blog.qst-exe.com)
 
 - 💬 Ask me about **Firebase, Flutter, Spearly**
 
 - 📫 How to reach me **info@qst-exe.com**
 
-- 📄 Know about my experiences [https://resume.hhg-exe.jp](https://resume.hhg-exe.jp)
+- 📄 Know about my experiences [https://resume.qst-exe.com](https://resume.qst-exe.com)
 
 - ⚡ Fun fact **Slowpoke(Pokemon)**
 
