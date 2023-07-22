@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Firebase, Flutter, Spearly**
 
-- 📫 How to reach me **info@hhg-exe.jp**
+- 📫 How to reach me **info@qst-exe.com**
 
 - 📄 Know about my experiences [https://resume.hhg-exe.jp](https://resume.hhg-exe.jp)
 
