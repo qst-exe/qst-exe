@@ -27,13 +27,13 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact&count_private=true" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [『鹿児島.mk 4周年LT大会』を開催しました](https://blog.qst-exe.com/articles/c-1D05XEH87KWI3ZaUGRPQ)
 - [地方在住者のためのメタバース活用術](https://blog.qst-exe.com/articles/c-kfwarVlot0gQjMqR7HZh)
 - [M1&lpar;Apple Silicon&rpar;での phpenv で php がうまく動かないエラー対応](https://zenn.dev/qst/articles/ce3011cd6a9a7c)
 - [メタバースコミュニティの『BridgeSpace』を作ったわけ](https://blog.qst-exe.com/articles/c-VF08wpl1qoJk3tSiD2LK)
 - [ブログをJekyll製からNext.jsとヘッドレスCMSのSpearly製に移行した3つの理由](https://blog.qst-exe.com/articles/c-C1bEfmnHDx7MSJ2UI5ho)
 - [2023年は赤魔道士エンジニアを目指して、](https://blog.qst-exe.com/articles/c-VW9Q1Azm6T23Eb5HaUtX)
 - [フリーランスと一人会社と会社員という生き方の2022年](https://blog.qst-exe.com/articles/c-cx3JqEGMAzZv9KVn0pNT)
-- [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
