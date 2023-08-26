@@ -6,8 +6,6 @@
 
 <h3 align="center">A hedgehog-like Mobile Application Rockstar from Kagoshima.</h3>
 
-<p><img align="right" width="40%" src="https://github-readme-stats-eta-seven-72.vercel.app/api?username=qst-exe&theme=vue&show_icons=true&locale=en&count_private=true" alt="qst-exe" /></p>
-
 - 🏢 I’m currently working on [Hedgehog.exe LLC](https://hhg-exe.jp/), [unimal Co.,Ltd.](https://unimal.jp/)
 
 - 🌱 I’m currently learning **Flutter Flame**
@@ -24,8 +22,6 @@
 
 ## Blogs posts
 
-<p><img align="right" src="https://github-readme-stats-eta-seven-72.vercel.app/api/top-langs?username=qst-exe&theme=vue&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,blade,css" alt="qst-exe" /></p>
-
 <!-- BLOG-POST-LIST:START -->
 - [『鹿児島.mk 4周年LT大会』を開催しました](https://blog.qst-exe.com/articles/c-1D05XEH87KWI3ZaUGRPQ)
 - [地方在住者のためのメタバース活用術](https://blog.qst-exe.com/articles/c-kfwarVlot0gQjMqR7HZh)
@@ -35,6 +31,20 @@
 - [2023年は赤魔道士エンジニアを目指して、](https://blog.qst-exe.com/articles/c-VW9Q1Azm6T23Eb5HaUtX)
 - [フリーランスと一人会社と会社員という生き方の2022年](https://blog.qst-exe.com/articles/c-cx3JqEGMAzZv9KVn0pNT)
 <!-- BLOG-POST-LIST:END -->
+
+## Analysis
+
+
+<div align="center">
+  <img width="52%" src="https://github-readme-stats-eta-seven-72.vercel.app/api?username=qst-exe&theme=vue&show_icons=true&locale=en&count_private=true" alt="qst-exe" />
+  <img width="40%" src="https://github-readme-stats-eta-seven-72.vercel.app/api/top-langs?username=qst-exe&theme=vue&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,blade,css" alt="qst-exe" />
+</div>
+
+### trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qst-exe&margin-w=5" alt="qst-exeのtrophy" />
+</div>
 
 ## Connect with me
 
