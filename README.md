@@ -6,7 +6,7 @@
 
 <h3 align="center">A hedgehog-like Mobile Application Rockstar from Kagoshima.</h3>
 
-<p><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=qst-exe&show_icons=true&locale=en" alt="qst-exe" /></p>
+<p><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=qst-exe&theme=vue&show_icons=true&locale=en&count_private=true" alt="qst-exe" /></p>
 
 - 🏢 I’m currently working on [Hedgehog.exe LLC](https://hhg-exe.jp/), [unimal Co.,Ltd.](https://unimal.jp/)
 
@@ -24,7 +24,7 @@
 
 ## Blogs posts
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&show_icons=true&locale=en&layout=compact&count_private=true" alt="qst-exe" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=qst-exe&theme=vue&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,blade,css" alt="qst-exe" /></p>
 
 <!-- BLOG-POST-LIST:START -->
 - [『鹿児島.mk 4周年LT大会』を開催しました](https://blog.qst-exe.com/articles/c-1D05XEH87KWI3ZaUGRPQ)
