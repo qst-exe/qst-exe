@@ -8,7 +8,7 @@
 
 - 🏢 I’m currently working on [Hedgehog.exe LLC](https://hhg-exe.jp/), [unimal Co.,Ltd.](https://unimal.jp/)
 
-- 🌱 I’m currently learning **Flutter Flame**
+- 🌱 I’m currently learning **WebXR**
 
 - 📝 I regularly write articles on [https://blog.qst-exe.com](https://blog.qst-exe.com)
 
