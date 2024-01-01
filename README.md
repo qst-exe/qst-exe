@@ -23,13 +23,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023年のメタバースに関する取り組み](https://blog.qst-exe.com/articles/c-metaverse-2023)
 - [Spear というヘッドレスCMSとの親和性の高いOSSの開発を通して](https://zenn.dev/qst/articles/spear-573a163bde)
 - [Next.js と Spearly でブログを作る【鹿児島.mk】](https://zenn.dev/qst/articles/52cdaf2d6b776b)
+- [『鹿児島.mk 4周年LT大会』を開催しました](https://blog.qst-exe.com/articles/c-1D05XEH87KWI3ZaUGRPQ)
+- [地方在住者のためのメタバース活用術](https://blog.qst-exe.com/articles/c-kfwarVlot0gQjMqR7HZh)
 - [M1&lpar;Apple Silicon&rpar;での phpenv で php がうまく動かないエラー対応](https://zenn.dev/qst/articles/ce3011cd6a9a7c)
-- [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
-- [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
-- [Flutter Webでブログを作ってSEOスコア100点を取ってみた](https://zenn.dev/qst/articles/45be4c0e82ca34)
-- [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
+- [メタバースコミュニティの『BridgeSpace』を作ったわけ](https://blog.qst-exe.com/articles/c-VF08wpl1qoJk3tSiD2LK)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
