@@ -13,4 +13,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                 max_post_count: "7"
-                feed_list: "https://blog.hhg-exe.jp/feed.xml,https://zenn.dev/qst/feed,https://blog.qst-exe.com/rss/feed.xml"
+                feed_list: "https://note.com/qst_exe/rss,https://zenn.dev/qst/feed,https://blog.qst-exe.com/rss/feed.xml"
