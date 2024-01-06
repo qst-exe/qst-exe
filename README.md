@@ -23,13 +23,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023年のメタバースに関する取り組み](https://note.com/qst_exe/n/n1de5c625ed70)
 - [2023年のメタバースに関する取り組み](https://blog.qst-exe.com/articles/c-metaverse-2023)
 - [Spear というヘッドレスCMSとの親和性の高いOSSの開発を通して](https://zenn.dev/qst/articles/spear-573a163bde)
 - [Next.js と Spearly でブログを作る【鹿児島.mk】](https://zenn.dev/qst/articles/52cdaf2d6b776b)
 - [『鹿児島.mk 4周年LT大会』を開催しました](https://blog.qst-exe.com/articles/c-1D05XEH87KWI3ZaUGRPQ)
 - [地方在住者のためのメタバース活用術](https://blog.qst-exe.com/articles/c-kfwarVlot0gQjMqR7HZh)
 - [M1&lpar;Apple Silicon&rpar;での phpenv で php がうまく動かないエラー対応](https://zenn.dev/qst/articles/ce3011cd6a9a7c)
-- [メタバースコミュニティの『BridgeSpace』を作ったわけ](https://blog.qst-exe.com/articles/c-VF08wpl1qoJk3tSiD2LK)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
