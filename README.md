@@ -23,13 +23,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [じぶん Release Notes - &lpar;ver 0.32.1&rpar;](https://blog.qst-exe.com/articles/release-v0-32-1)
 - [初心に返って蓄積を行う -2024年の抱負-](https://note.com/qst_exe/n/n61172a1dbfca)
 - [2023年のメタバースに関する取り組み](https://note.com/qst_exe/n/n1de5c625ed70)
+- [2023年のメタバースに関する取り組み](https://blog.qst-exe.com/articles/c-metaverse-2023)
 - [Spear というヘッドレスCMSとの親和性の高いOSSの開発を通して](https://zenn.dev/qst/articles/spear-573a163bde)
 - [Next.js と Spearly でブログを作る【鹿児島.mk】](https://zenn.dev/qst/articles/52cdaf2d6b776b)
-- [M1&lpar;Apple Silicon&rpar;での phpenv で php がうまく動かないエラー対応](https://zenn.dev/qst/articles/ce3011cd6a9a7c)
-- [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
-- [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
+- [『鹿児島.mk 4周年LT大会』を開催しました](https://blog.qst-exe.com/articles/c-1D05XEH87KWI3ZaUGRPQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
