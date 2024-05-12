@@ -23,13 +23,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3年使った Fold シリーズから Sシリーズに乗り換えた話](https://note.com/qst_exe/n/nef1eea5f2afd)
 - [じぶん Release Notes - &lpar;ver 0.32.4&rpar;](https://blog.qst-exe.com/articles/release-v0-32-4)
 - [スマホアプリ開発でよく聞く「Webアプリ」「ネイティブアプリ」の違いと選び方](https://blog.qst-exe.com/articles/which-choice-app-web-or-native)
 - [じぶん Release Notes - &lpar;ver 0.32.3&rpar;](https://blog.qst-exe.com/articles/release-v0-32-3)
 - [じぶん Release Notes - &lpar;ver 0.32.2&rpar;](https://blog.qst-exe.com/articles/release-v0-32-2)
 - [じぶん Release Notes - &lpar;ver 0.32.1&rpar;](https://blog.qst-exe.com/articles/release-v0-32-1)
 - [初心に返って蓄積を行う -2024年の抱負-](https://note.com/qst_exe/n/n61172a1dbfca)
-- [2023年のメタバースに関する取り組み](https://note.com/qst_exe/n/n1de5c625ed70)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
