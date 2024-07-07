@@ -23,13 +23,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [じぶん Release Notes - &lpar;ver 0.32.6&rpar;](https://blog.qst-exe.com/articles/release-v0-32-6)
 - [鹿児島.mk #50 5周年LT大大会を開催した話](https://note.com/qst_exe/n/n70bd659519ca)
 - [Apple Vision Pro で始めるメタバース生活](https://note.com/qst_exe/n/nb8227eed0c02)
 - [じぶん Release Notes - &lpar;ver 0.32.5&rpar;](https://blog.qst-exe.com/articles/release-v0-32-5)
 - [3年使った Fold シリーズから Sシリーズに乗り換えた話](https://note.com/qst_exe/n/nef1eea5f2afd)
 - [じぶん Release Notes - &lpar;ver 0.32.4&rpar;](https://blog.qst-exe.com/articles/release-v0-32-4)
 - [スマホアプリ開発でよく聞く「Webアプリ」「ネイティブアプリ」の違いと選び方](https://blog.qst-exe.com/articles/which-choice-app-web-or-native)
-- [じぶん Release Notes - &lpar;ver 0.32.3&rpar;](https://blog.qst-exe.com/articles/release-v0-32-3)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
