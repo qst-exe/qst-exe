@@ -24,12 +24,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple Vision Pro であそぼ LTN &lpar;ライトニングトークノート&rpar;](https://note.com/qst_exe/n/ne04541c7e296)
+- [じぶん Release Notes - &lpar;ver 0.32.8&rpar;](https://blog.qst-exe.com/articles/release-v0-32-8)
 - [鹿児島初 XR デバイス&lpar;Apple Vision Pro&rpar;体験会を実施しました](https://note.com/qst_exe/n/n19d851c4eed6)
 - [じぶん Release Notes - &lpar;ver 0.32.7&rpar;](https://blog.qst-exe.com/articles/release-v0-32-7)
 - [じぶん Release Notes - &lpar;ver 0.32.6&rpar;](https://blog.qst-exe.com/articles/release-v0-32-6)
 - [鹿児島.mk #50 5周年LT大大会を開催した話](https://note.com/qst_exe/n/n70bd659519ca)
 - [Apple Vision Pro で始めるメタバース生活](https://note.com/qst_exe/n/nb8227eed0c02)
-- [じぶん Release Notes - &lpar;ver 0.32.5&rpar;](https://blog.qst-exe.com/articles/release-v0-32-5)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
