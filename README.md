@@ -23,13 +23,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [今年に鹿児島&lpar;鹿屋&rpar;から開催・登壇したイベントたちまとめ](https://note.com/qst_exe/n/ne59551c67e6c)
 - [じぶん Release Notes - &lpar;ver 0.32.10&rpar;](https://blog.qst-exe.com/articles/release-v0-32-10)
 - [じぶん Release Notes - &lpar;ver 0.32.9&rpar;](https://blog.qst-exe.com/articles/release-v0-32-9)
 - [9月の Apple Vision Pro 活動まとめ&lpar;in 鹿児島・宮崎&rpar;](https://note.com/qst_exe/n/nc217c5a0b9f9)
 - [Apple Vision Pro であそぼ LTN &lpar;ライトニングトークノート&rpar;](https://note.com/qst_exe/n/ne04541c7e296)
 - [じぶん Release Notes - &lpar;ver 0.32.8&rpar;](https://blog.qst-exe.com/articles/release-v0-32-8)
 - [鹿児島県霧島市で XR デバイス&lpar;Apple Vision Pro&rpar;体験会を実施しました](https://note.com/qst_exe/n/n19d851c4eed6)
-- [じぶん Release Notes - &lpar;ver 0.32.7&rpar;](https://blog.qst-exe.com/articles/release-v0-32-7)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
