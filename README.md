@@ -23,13 +23,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [鹿児島←→鹿屋エンジニア2024年の挑戦と成果](https://note.com/qst_exe/n/nc1faf5888f3e)
 - [鹿児島最大級のエンジニアコミュニティ「鹿児島.mk」の5.5周年とこれから](https://note.com/qst_exe/n/n38e8638aee4f)
 - [じぶん Release Notes - &lpar;ver 0.32.11&rpar;](https://blog.qst-exe.com/articles/release-v0-32-11)
 - [今年に鹿児島&lpar;鹿屋&rpar;から開催・登壇したイベントたちまとめ](https://note.com/qst_exe/n/ne59551c67e6c)
 - [じぶん Release Notes - &lpar;ver 0.32.10&rpar;](https://blog.qst-exe.com/articles/release-v0-32-10)
 - [じぶん Release Notes - &lpar;ver 0.32.9&rpar;](https://blog.qst-exe.com/articles/release-v0-32-9)
 - [9月の Apple Vision Pro 活動まとめ&lpar;in 鹿児島・宮崎&rpar;](https://note.com/qst_exe/n/nc217c5a0b9f9)
-- [Apple Vision Pro であそぼ LTN &lpar;ライトニングトークノート&rpar;](https://note.com/qst_exe/n/ne04541c7e296)
 <!-- BLOG-POST-LIST:END -->
 
 ## Analysis
