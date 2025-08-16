@@ -7,13 +7,13 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [鹿児島.mk #60 6周年LT大大会を開催した話](https://note.com/qst_exe/n/ndfad5c3a9cb7)
-- [霧島で AI にまつわるイベントを開催した話 〜鹿児島.mk #59〜](https://note.com/qst_exe/n/n0ebb7f7c3632)
-- [個人的に利用している AI サービスまとめ〜6月編〜【鹿児島.mk】](https://note.com/qst_exe/n/n250015de6f4e)
-- [Vibe Coding ハッカソンをやった話 〜鹿児島.mk #56〜](https://note.com/qst_exe/n/n612cd9df4803)
-- [鹿屋でのエンジニアコミュニティの集いと今後の展望](https://note.com/qst_exe/n/nda1aa74aaf3f)
-- [個人的に利用している AI サービスまとめ【鹿児島.mk】](https://note.com/qst_exe/n/n6b7aff67867f)
-- [全員が登壇者なイベントを開催した話 〜鹿児島.mk #55〜](https://note.com/qst_exe/n/ne0b5bc57a5ce)
+- [Spear というヘッドレスCMSとの親和性の高いOSSの開発を通して](https://zenn.dev/qst/articles/spear-573a163bde)
+- [Next.js と Spearly でブログを作る【鹿児島.mk】](https://zenn.dev/qst/articles/52cdaf2d6b776b)
+- [M1&lpar;Apple Silicon&rpar;での phpenv で php がうまく動かないエラー対応](https://zenn.dev/qst/articles/ce3011cd6a9a7c)
+- [ヘッドレスCMS製のSPAなブログでSEOスコア100点取ってみた](https://zenn.dev/qst/articles/d17ba67b690672)
+- [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b)
+- [Flutter Webでブログを作ってSEOスコア100点を取ってみた](https://zenn.dev/qst/articles/45be4c0e82ca34)
+- [FlutterとSpearlyでHTMLなし・サーバーレスのお問い合わせフォームを作る](https://zenn.dev/qst/articles/e06d73e2adfc90)
 <!-- BLOG-POST-LIST:END -->
 
 ### trophy
